@@ -1,5 +1,6 @@
 # Course-Schema-Example
 
+```
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -78,3 +79,4 @@
     "coursePrerequisites": "Bachelor’s degree from a recognized university with a minimum of 50% aggregate marks."
 }
 </script>
+```
